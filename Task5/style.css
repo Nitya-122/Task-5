@@ -1,0 +1,96 @@
+
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 15px;
+    border: 4px solid crimson ;
+    width: 600px;
+    
+
+}
+
+.container {
+    width: 530px;
+    margin:10px;
+    padding: 20px;
+    background-color:whitesmoke;
+    
+}
+
+h1 {
+    color:maroon;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:550px;
+}
+label {
+    display: inline-block ;
+    margin-bottom: 5px;
+    font-weight:bold;
+}
+input{
+    width: 450px;
+    padding: 10px;
+    border: 2px solid purple;
+    border-radius: 5px;
+    background-color:lavenderblush;
+    margin-bottom: 10px;
+}
+.signup-link button {
+    
+    width: 250px;
+    padding: 10px;
+    background-color:teal;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+p{
+    margin: 0px;
+    padding-left: 10px;
+    font-size: larger;
+}
+h3{
+    margin: 0px;
+    padding-top: 0px;
+
+}
+.comp input{
+    width: 350px;
+    background-color: peachpuff;
+    display: flex;
+}
+.city input{
+    width: 175px;
+    background-color: rgb(243, 220, 90);
+    border: 2px solid gold;
+    display: flex;
+}
+.state input{
+    width: 150px;
+    background-color: greenyellow;
+    border:2px solid  green ;
+}
+.code input{
+    width: 100px;
+    background-color: silver;
+    border:2px solid  springgreen ;
+
+}
+.country select{
+    width: 150px;
+    background-color:burlywood;
+    height: 40px;
+}
+.image img{
+    width: 150px;
+    padding-left: 10px;
+    padding-top: 25px;
+    float: left;
+}
